@@ -1,0 +1,37 @@
+baseURL = "https://jmresearch2025-ui.github.io/JM-Research/"
+title = "Juan Merizalde, PhD"
+theme = "Wowchemy"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+hasCJKLanguage = false
+enableRobotsTXT = true
+
+[params]
+  theme = "dark"
+  favicon = "favicon.ico"
+  description = "Researcher in Militant and Sub-State Violence | AFPAK Region"
+  date_format = "Jan 2, 2006"
+  mainSections = ["blog"]
+  custom_css = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "#about"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "#research"
+    weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "#teaching"
+    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 5

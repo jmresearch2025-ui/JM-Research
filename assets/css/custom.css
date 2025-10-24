@@ -1,5 +1,7 @@
 body {
   font-family: "Inter", sans-serif;
+  background-color: #111111;
+  color: #e0e0e0;
 }
 a {
   color: #56ccf2;
